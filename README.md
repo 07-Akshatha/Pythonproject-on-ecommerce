@@ -7,3 +7,4 @@ To analyze the monthly profit from sales and determine which month had the highe
 Analyze the profit by category and sub-category.
 Analyze the sales and profit by customer segment.
 Analyze the sales to profit ratio.
+Finally run all the codes properly.and project done.
